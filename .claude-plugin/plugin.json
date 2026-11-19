@@ -1,0 +1,9 @@
+{
+  "name": "breadcrumbs",
+  "version": "0.2.0",
+  "description": "Shows which skills ran in your last turn, as a trail or tags above the chat input.",
+  "author": { "name": "breyr" },
+  "license": "MIT",
+  "repository": "https://github.com/breyr/breadcrumbs",
+  "types": "./types/index.d.ts"
+}

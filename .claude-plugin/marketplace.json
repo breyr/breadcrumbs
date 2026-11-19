@@ -1,0 +1,6 @@
+{
+  "name": "breadcrumbs",
+  "description": "A Claude Code mod that shows which skills ran in your last turn.",
+  "owner": { "name": "breyr" },
+  "plugins": [{ "name": "breadcrumbs", "source": "./" }]
+}
